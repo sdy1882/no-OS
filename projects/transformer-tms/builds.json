@@ -1,0 +1,7 @@
+{
+  "maxim": {
+    "transformer_tms": {
+      "flags" : "TARGET=max32650"
+    }
+  }
+}
